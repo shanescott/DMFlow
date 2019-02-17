@@ -1,0 +1,14 @@
+{
+  "name": "dmflow",
+  "version": "1.0.0",
+  "description": "DMflow node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "shane scott",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
