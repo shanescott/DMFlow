@@ -2,8 +2,8 @@ language: node_js
 node_js: node
 deploy:
   provider: heroku
-  api_key:  
-    secure:
+  api_key:
+    secure: I8FdisK/GrdzdLq1EzDQD06m0/AkR58QyRqzVSKjQtVCVgPsgaLkOSvAF5M8ZFsDsafYeBjY3LEkqq0fIvLWdlSodUhyTn9MZlxhDPHTJ8V5XQxybwMOpn0duXAgUAzFN9ZCS7sNYOkRHeL1z8tSNENAAriIiC/crF2zXwEd7LTKYXKBMzCxqznj1Fc3mH3ioc07qFoW57mvB8W7+Ddf6QOxTt3sl+27T788jOAStqYzOAd2OBc86DR5twLh/ilDC5n5Jlo9pFDbjH7oo+CxpPc5ISAZGT07P1OhDu49PoxsPa5l27Wlr4uxe7P4L+gG+0OiVhr3mqxRVEhT95BxScnBP4oPXSnxdnGMPRud7eQc1pKcFnaujo2XSix88QRzBYw0sfBqLsopSyeVqODtg4HjqUSp8b6RsmUVmFP/Xg/0cwtz1pvbC8wbJ1qIR+AdGoUkpAGFLyEjMoo3snUXRm1IZ/c/oBqjctJbMYYOVmPEIBIYVaVJNGwnqyb/d79bQ1RkiN5UW6O3tiZwZ2SdOZQxUjA6HfdGnYNEE4dzZlpDMB+WkftRzvJjcwOlA9UzNEmyQgu/UN5iRe0D/mAS0HB16+VhquXcUeavdR+7AAG7+dY2/F0frAUB0HjYu6sXE53nNFlizRlxZXyodAoF3bkw/V9m7yCKAkuemJG3etU=
   app: peaceful-ridge-12452
   on:
     repo: shanescott/DMFlow
